@@ -1,5 +1,5 @@
 # 👋 Hello, I am Jose Paredes-Larios!
-💻/🧬 Studying Computer Science and Biochemistry at Colgate University
+✏️ Studying Computer Science and Biochemistry at Colgate University
 
 
 # 💻 Tech Stack:
